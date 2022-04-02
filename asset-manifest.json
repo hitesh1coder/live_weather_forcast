@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/HKweather/static/css/main.cf2f74b0.css",
+    "main.js": "/HKweather/static/js/main.562db576.js",
+    "static/js/787.13d76ca7.chunk.js": "/HKweather/static/js/787.13d76ca7.chunk.js",
+    "index.html": "/HKweather/index.html",
+    "main.cf2f74b0.css.map": "/HKweather/static/css/main.cf2f74b0.css.map",
+    "main.562db576.js.map": "/HKweather/static/js/main.562db576.js.map",
+    "787.13d76ca7.chunk.js.map": "/HKweather/static/js/787.13d76ca7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf2f74b0.css",
+    "static/js/main.562db576.js"
+  ]
+}
